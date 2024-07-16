@@ -1,0 +1,23 @@
+# IntelliJ IDEA specific files
+.idea/
+*.iml
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Maven target directory
+target/
+
+# Node modules (if applicable)
+node_modules/
+
+# Exclude other build artifacts
+*.jar
+*.war
+
+# Operating system files
+.DS_Store
+Thumbs.db
